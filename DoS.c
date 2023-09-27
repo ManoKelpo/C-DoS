@@ -1,3 +1,5 @@
+// Copyright 2023 Rayan Araujo.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/socket.h>
